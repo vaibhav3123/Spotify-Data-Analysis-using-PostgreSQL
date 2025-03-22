@@ -145,7 +145,7 @@ For any questions, discussions, or improvements, feel free to reach out:
 
 GitHub: https://github.com/vaibhav3123  
 LinkedIn: https://www.linkedin.com/in/vaibhav-bari-915bb5202/  
-
 Email: bariv219@gmail.com  
+
 🚀 Happy Analyzing!
 
